@@ -8,6 +8,7 @@ class Demo {
         List<String> name = new ArrayList<>();
         name.add("hitesh");
         name.add("Smith");
+        name.add("mayank");
 
     }
 }
